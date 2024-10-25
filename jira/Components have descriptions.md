@@ -13,3 +13,5 @@ I don't know where the UI is for browsing component descriptions, so I pulled th
   "| Component | Description |\n| --- | --- |\n"
   components)
 ```
+
+Edit: The UI for components is at `/jira/software/c/projects/{project}/components`.
