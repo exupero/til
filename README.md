@@ -1,0 +1,31 @@
+# TIL - Today I Learned
+
+A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
+
+10 TILs
+
+---
+
+## Github
+1. [RSS feed of commit activity](https://github.com/exupero/til/blob/main/Github/RSS%20feed%20of%20commit%20activity.md)
+
+## Internet
+1. [Deep link to specific text](https://github.com/exupero/til/blob/main/Internet/Deep%20link%20to%20specific%20text.md)
+
+## Javascript
+1. [Hash sign denotes private properties](https://github.com/exupero/til/blob/main/Javascript/Hash%20sign%20denotes%20private%20properties.md)
+
+## Jira
+1. [Components have descriptions](https://github.com/exupero/til/blob/main/Jira/Components%20have%20descriptions.md)
+
+## Learning
+1. [TILs](https://github.com/exupero/til/blob/main/Learning/TILs.md)
+
+## Neovim
+1. [Paste from register in insert mode](https://github.com/exupero/til/blob/main/Neovim/Paste%20from%20register%20in%20insert%20mode.md)
+2. [Put file's name in register](https://github.com/exupero/til/blob/main/Neovim/Put%20file's%20name%20in%20register.md)
+3. [Set env var in running instance](https://github.com/exupero/til/blob/main/Neovim/Set%20env%20var%20in%20running%20instance.md)
+4. [Vim-fugitive includes GBrowse command](https://github.com/exupero/til/blob/main/Neovim/Vim-fugitive%20includes%20GBrowse%20command.md)
+
+## Zsh
+1. [Zshenv is loaded for all shells, including Vim](https://github.com/exupero/til/blob/main/Zsh/Zshenv%20is%20loaded%20for%20all%20shells,%20including%20Vim.md)
