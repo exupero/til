@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-15 TILs
+16 TILs
 
 ---
 
@@ -17,6 +17,9 @@ A collection of concise write-ups on small things I learn day to day across a va
 ## Github
 1. [CLI commands for common needs](https://github.com/exupero/til/blob/main/Github/CLI%20commands%20for%20common%20needs.md)
 2. [RSS feed of commit activity](https://github.com/exupero/til/blob/main/Github/RSS%20feed%20of%20commit%20activity.md)
+
+## Hammerspoon
+1. [Find app by pattern of its window title](https://github.com/exupero/til/blob/main/Hammerspoon/Find%20app%20by%20pattern%20of%20its%20window%20title.md)
 
 ## Internet
 1. [Deep link to specific text](https://github.com/exupero/til/blob/main/Internet/Deep%20link%20to%20specific%20text.md)
