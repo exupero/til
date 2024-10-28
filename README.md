@@ -2,9 +2,12 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-14 TILs
+15 TILs
 
 ---
+
+## Babashka
+1. [Peloading code on every invocation](https://github.com/exupero/til/blob/main/Babashka/Peloading%20code%20on%20every%20invocation.md)
 
 ## Git
 1. [Config option to show diff in commit editor](https://github.com/exupero/til/blob/main/Git/Config%20option%20to%20show%20diff%20in%20commit%20editor.md)
