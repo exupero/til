@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-13 TILs
+14 TILs
 
 ---
 
@@ -12,7 +12,8 @@ A collection of concise write-ups on small things I learn day to day across a va
 3. [Pre-populate commit message](https://github.com/exupero/til/blob/main/Git/Pre-populate%20commit%20message.md)
 
 ## Github
-1. [RSS feed of commit activity](https://github.com/exupero/til/blob/main/Github/RSS%20feed%20of%20commit%20activity.md)
+1. [CLI commands for common needs](https://github.com/exupero/til/blob/main/Github/CLI%20commands%20for%20common%20needs.md)
+2. [RSS feed of commit activity](https://github.com/exupero/til/blob/main/Github/RSS%20feed%20of%20commit%20activity.md)
 
 ## Internet
 1. [Deep link to specific text](https://github.com/exupero/til/blob/main/Internet/Deep%20link%20to%20specific%20text.md)
