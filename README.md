@@ -2,9 +2,14 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-10 TILs
+13 TILs
 
 ---
+
+## Git
+1. [Config option to show diff in commit editor](https://github.com/exupero/til/blob/main/Git/Config%20option%20to%20show%20diff%20in%20commit%20editor.md)
+2. [Pre-commit hook to check for text in changed files](https://github.com/exupero/til/blob/main/Git/Pre-commit%20hook%20to%20check%20for%20text%20in%20changed%20files.md)
+3. [Pre-populate commit message](https://github.com/exupero/til/blob/main/Git/Pre-populate%20commit%20message.md)
 
 ## Github
 1. [RSS feed of commit activity](https://github.com/exupero/til/blob/main/Github/RSS%20feed%20of%20commit%20activity.md)
