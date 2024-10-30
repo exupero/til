@@ -2,6 +2,10 @@
   (:require [clojure.java.io :as io]
             [clojure.string :as str]))
 
+(defn read-title-from-file [f]
+  (with-open [rdr (io/reader f)]
+    (-> rdr line-seq first (subs 2))))
+
 (defn tils []
   (sequence
     (comp
@@ -11,13 +15,13 @@
               (let [parent (.getParent f)]
                 (when (< 1 (count parent))
                   (let [category (subs parent 2)
-                        nm (.getName f)
-                        title (subs nm 0 (- (count nm) 3))]
+                        nm (.getName f)]
                     {:category category
-                     :title title
+                     :title (if (.contains nm "_")
+                              (read-title-from-file f)
+                              (subs nm 0 (- (count nm) 3)))
                      :path (str "https://github.com/exupero/til/blob/main/"
-                                category "/"
-                                (str/replace title " " "%20") ".md")}))))))
+                                category "/" (str/replace nm " " "%20"))}))))))
     (file-seq (io/file "."))))
 
 (defn listing [files]
