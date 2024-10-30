@@ -10,7 +10,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 1. [Peloading code on every invocation](https://github.com/exupero/til/blob/main/Babashka/Peloading%20code%20on%20every%20invocation.md)
 
 ## Clojure
-1. [Clojure.java.io_file can take multiple arguments](https://github.com/exupero/til/blob/main/Clojure/Clojure.java.io_file%20can%20take%20multiple%20arguments.md)
+1. [clojure.java.io/file can take multiple arguments](https://github.com/exupero/til/blob/main/Clojure/Clojure.java.io_file%20can%20take%20multiple%20arguments.md)
 
 ## Git
 1. [Config option to show diff in commit editor](https://github.com/exupero/til/blob/main/Git/Config%20option%20to%20show%20diff%20in%20commit%20editor.md)
