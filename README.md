@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-26 TILs
+28 TILs
 
 ---
 
@@ -45,14 +45,18 @@ A collection of concise write-ups on small things I learn day to day across a va
 ## Learning
 1. [TILs](https://github.com/exupero/til/blob/main/Learning/TILs.md)
 
+## Markdown
+1. [Backticks inside in-line code](https://github.com/exupero/til/blob/main/Markdown/Backticks%20inside%20in-line%20code.md)
+
 ## Neovim
 1. [Close all splits except the current one](https://github.com/exupero/til/blob/main/Neovim/Close%20all%20splits%20except%20the%20current%20one.md)
 2. [Define user command from Lua](https://github.com/exupero/til/blob/main/Neovim/Define%20user%20command%20from%20Lua.md)
-3. [Paste from register in insert mode](https://github.com/exupero/til/blob/main/Neovim/Paste%20from%20register%20in%20insert%20mode.md)
-4. [Put file's name in register](https://github.com/exupero/til/blob/main/Neovim/Put%20file's%20name%20in%20register.md)
-5. [Set env var in running instance](https://github.com/exupero/til/blob/main/Neovim/Set%20env%20var%20in%20running%20instance.md)
-6. [Vim-fugitive includes GBrowse command](https://github.com/exupero/til/blob/main/Neovim/Vim-fugitive%20includes%20GBrowse%20command.md)
-7. [Vim-medieval configuration to run Clojure code with Babashka](https://github.com/exupero/til/blob/main/Neovim/Vim-medieval%20configuration%20to%20run%20Clojure%20code%20with%20Babashka.md)
+3. [Motion to visually select string without leading whitespace](https://github.com/exupero/til/blob/main/Neovim/Motion%20to%20visually%20select%20string%20without%20leading%20whitespace.md)
+4. [Paste from register in insert mode](https://github.com/exupero/til/blob/main/Neovim/Paste%20from%20register%20in%20insert%20mode.md)
+5. [Put file's name in register](https://github.com/exupero/til/blob/main/Neovim/Put%20file's%20name%20in%20register.md)
+6. [Set env var in running instance](https://github.com/exupero/til/blob/main/Neovim/Set%20env%20var%20in%20running%20instance.md)
+7. [Vim-fugitive includes GBrowse command](https://github.com/exupero/til/blob/main/Neovim/Vim-fugitive%20includes%20GBrowse%20command.md)
+8. [Vim-medieval configuration to run Clojure code with Babashka](https://github.com/exupero/til/blob/main/Neovim/Vim-medieval%20configuration%20to%20run%20Clojure%20code%20with%20Babashka.md)
 
 ## Python
 1. [Show code's AST](https://github.com/exupero/til/blob/main/Python/Show%20code's%20AST.md)
