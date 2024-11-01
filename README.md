@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-28 TILs
+29 TILs
 
 ---
 
@@ -60,6 +60,9 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Python
 1. [Show code's AST](https://github.com/exupero/til/blob/main/Python/Show%20code's%20AST.md)
+
+## UltiSnips
+1. [Random output needs to check snip.c](https://github.com/exupero/til/blob/main/UltiSnips/Random%20output%20needs%20to%20check%20snip.c.md)
 
 ## Zsh
 1. [Zshenv is loaded for all shells, including Vim](https://github.com/exupero/til/blob/main/Zsh/Zshenv%20is%20loaded%20for%20all%20shells,%20including%20Vim.md)
