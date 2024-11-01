@@ -1,10 +1,26 @@
 # Meander rewrite forms can recurse using meander.epsilon/app
 
-I'm working on a small project to translate Clojure forms into Python ASTs, and after writing some branchy tree-walking code that quickly became unpleasant, I took a deeper dive into [Kalai](https://github.com/kalai-transpiler/kalai)'s code.
-Kalai transpiles Clojure into Rust, C++, and Java by making several small transformation passes using [Meander](https://github.com/noprompt/meander)'s pattern matching and term rewriting, and while I've played with Meander before, I mostly recursed by invoking `meander.strategy.epsilon/bottom-up`.
-In this project I couldn't use blanket recursion, each rewrite needed to control recursion differently.
-Using a `meander.strategy.epsilon/match` form worked trivially, but I had trouble with `meander.strategy.epsilon/rewrite`, which uses substitution patterns.
-I monkeyed around with quoting and unquoting without success, then took a closer look at Kalai's Java transformations, where I discovered [this code](https://github.com/kalai-transpiler/kalai/blob/main/src/kalai/pass/java/a_syntax.clj#L85-L92) that uses `meander.epsilon/app` to apply a function to pattern.
-It worked perfectly.
+Tinkering with a [small module](https://github.com/exupero/bblib/blob/main/python.clj) to turn Clojure forms into Python ASTs, I had written some branchy tree-walking code that wasn't holding up, so I took a look at how [Kalai](https://github.com/kalai-transpiler/kalai) turns Clojure into Rust, C++, and Java.
+Its strategy is to make several small transformation passes using [Meander](https://github.com/noprompt/meander) to pattern match and rewrite terms.
 
-To see the code and more details, check out [this module](https://github.com/exupero/bblib/blob/main/python.clj).
+I've played with Meander before, but not used explicit recursion, instead relying on `meander.strategy.epsilon/bottom-up` to rewrite terms at different places in a nested structure.
+Kalai's source code illustrated how to control recursion more precisely, namely by using `meander.epsilon/app`.
+Here's a small example:
+
+```clojure
+(require '[meander.epsilon :as m]
+         '[meander.strategy.epsilon :as m*])
+
+(def expand
+  (m*/rewrite
+    [?a]
+    , [?a ?a]
+    [?a ?b]
+    , [(m/app expand [?a]) (m/app expand [?b])]
+    ?else
+    , ?else))
+
+(expand [1 2]) ; [[1 1] [2 2]]]
+```
+
+Note that pattern substitutions are able to refer to the name the strategy is bound to.
