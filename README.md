@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-23 TILs
+24 TILs
 
 ---
 
@@ -17,6 +17,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 1. [Config option to show diff in commit editor](https://github.com/exupero/til/blob/main/Git/Config%20option%20to%20show%20diff%20in%20commit%20editor.md)
 2. [Pre-commit hook to check for text in changed files](https://github.com/exupero/til/blob/main/Git/Pre-commit%20hook%20to%20check%20for%20text%20in%20changed%20files.md)
 3. [Pre-populate commit message](https://github.com/exupero/til/blob/main/Git/Pre-populate%20commit%20message.md)
+4. [Pull with --rebase gets forced pushes](https://github.com/exupero/til/blob/main/Git/Pull%20with%20--rebase%20gets%20forced%20pushes.md)
 
 ## Github
 1. [CLI commands for common needs](https://github.com/exupero/til/blob/main/Github/CLI%20commands%20for%20common%20needs.md)
