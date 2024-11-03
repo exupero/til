@@ -1,6 +1,5 @@
 (ns readme
-  (:require [clojure.java.io :as io]
-            [clojure.string :as str]))
+  (:require [clojure.java.io :as io]))
 
 (defn read-title-from-file [f]
   (with-open [rdr (io/reader f)]
@@ -17,11 +16,8 @@
                   (let [category (subs parent 2)
                         nm (.getName f)]
                     {:category category
-                     :title (if (.contains nm "_")
-                              (read-title-from-file f)
-                              (subs nm 0 (- (count nm) 3)))
-                     :path (str "https://github.com/exupero/til/blob/main/"
-                                category "/" (str/replace nm " " "%20"))}))))))
+                     :title (read-title-from-file f)
+                     :path (str "https://github.com/exupero/til/blob/main/" category "/" nm)}))))))
     (file-seq (io/file "."))))
 
 (def neovim-heading
@@ -33,8 +29,8 @@
        (group-by :category)
        (sort-by first)
        (map (fn [[category files]]
-              (str (if (= "Neovim" category)
-                     neovim-heading
+              (str (condp = category
+                     "Neovim" neovim-heading
                      (str "## " category "\n"))
                    (->> files
                         (sort-by :title)
