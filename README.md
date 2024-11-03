@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-32 TILs
+33 TILs
 
 ---
 
@@ -15,15 +15,16 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Git
 1. [Config option to show diff in commit editor](https://github.com/exupero/til/blob/main/Git/Config%20option%20to%20show%20diff%20in%20commit%20editor.md)
-2. [Force output to be colored](https://github.com/exupero/til/blob/main/Git/Force%20output%20to%20be%20colored.md)
-3. [Pre-commit hook to check for text in changed files](https://github.com/exupero/til/blob/main/Git/Pre-commit%20hook%20to%20check%20for%20text%20in%20changed%20files.md)
-4. [Pre-populate commit message](https://github.com/exupero/til/blob/main/Git/Pre-populate%20commit%20message.md)
-5. [Pull with --rebase gets forced pushes](https://github.com/exupero/til/blob/main/Git/Pull%20with%20--rebase%20gets%20forced%20pushes.md)
+2. [Diff --changes exits with status code 1 when there are changes](https://github.com/exupero/til/blob/main/Git/Diff%20--changes%20exits%20with%20status%20code%201%20when%20there%20are%20changes.md)
+3. [Force output to be colored](https://github.com/exupero/til/blob/main/Git/Force%20output%20to%20be%20colored.md)
+4. [Pre-commit hook to check for text in changed files](https://github.com/exupero/til/blob/main/Git/Pre-commit%20hook%20to%20check%20for%20text%20in%20changed%20files.md)
+5. [Pre-populate commit message](https://github.com/exupero/til/blob/main/Git/Pre-populate%20commit%20message.md)
+6. [Pull with --rebase gets forced pushes](https://github.com/exupero/til/blob/main/Git/Pull%20with%20--rebase%20gets%20forced%20pushes.md)
 
-## Github
-1. [CLI commands for common needs](https://github.com/exupero/til/blob/main/Github/CLI%20commands%20for%20common%20needs.md)
-2. [Dismiss a review that requested changes](https://github.com/exupero/til/blob/main/Github/Dismiss%20a%20review%20that%20requested%20changes.md)
-3. [RSS feed of commit activity](https://github.com/exupero/til/blob/main/Github/RSS%20feed%20of%20commit%20activity.md)
+## GitHub
+1. [CLI commands for common needs](https://github.com/exupero/til/blob/main/GitHub/CLI%20commands%20for%20common%20needs.md)
+2. [Dismiss a review that requested changes](https://github.com/exupero/til/blob/main/GitHub/Dismiss%20a%20review%20that%20requested%20changes.md)
+3. [RSS feed of commit activity](https://github.com/exupero/til/blob/main/GitHub/RSS%20feed%20of%20commit%20activity.md)
 
 ## GraphQL
 1. [Query for schema](https://github.com/exupero/til/blob/main/GraphQL/Query%20for%20schema.md)
