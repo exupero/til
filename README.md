@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-30 TILs
+32 TILs
 
 ---
 
@@ -15,9 +15,10 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Git
 1. [Config option to show diff in commit editor](https://github.com/exupero/til/blob/main/Git/Config%20option%20to%20show%20diff%20in%20commit%20editor.md)
-2. [Pre-commit hook to check for text in changed files](https://github.com/exupero/til/blob/main/Git/Pre-commit%20hook%20to%20check%20for%20text%20in%20changed%20files.md)
-3. [Pre-populate commit message](https://github.com/exupero/til/blob/main/Git/Pre-populate%20commit%20message.md)
-4. [Pull with --rebase gets forced pushes](https://github.com/exupero/til/blob/main/Git/Pull%20with%20--rebase%20gets%20forced%20pushes.md)
+2. [Force output to be colored](https://github.com/exupero/til/blob/main/Git/Force%20output%20to%20be%20colored.md)
+3. [Pre-commit hook to check for text in changed files](https://github.com/exupero/til/blob/main/Git/Pre-commit%20hook%20to%20check%20for%20text%20in%20changed%20files.md)
+4. [Pre-populate commit message](https://github.com/exupero/til/blob/main/Git/Pre-populate%20commit%20message.md)
+5. [Pull with --rebase gets forced pushes](https://github.com/exupero/til/blob/main/Git/Pull%20with%20--rebase%20gets%20forced%20pushes.md)
 
 ## Github
 1. [CLI commands for common needs](https://github.com/exupero/til/blob/main/Github/CLI%20commands%20for%20common%20needs.md)
@@ -48,15 +49,17 @@ A collection of concise write-ups on small things I learn day to day across a va
 ## Markdown
 1. [Backticks inside in-line code](https://github.com/exupero/til/blob/main/Markdown/Backticks%20inside%20in-line%20code.md)
 
-## Neovim
+## (Neo)Vim
+I've only tested these in [Neovim](https://neovim.io/), but some of them also apply to Vim.
 1. [Close all splits except the current one](https://github.com/exupero/til/blob/main/Neovim/Close%20all%20splits%20except%20the%20current%20one.md)
 2. [Define user command from Lua](https://github.com/exupero/til/blob/main/Neovim/Define%20user%20command%20from%20Lua.md)
-3. [Motion to visually select string without leading whitespace](https://github.com/exupero/til/blob/main/Neovim/Motion%20to%20visually%20select%20string%20without%20leading%20whitespace.md)
-4. [Paste from register in insert mode](https://github.com/exupero/til/blob/main/Neovim/Paste%20from%20register%20in%20insert%20mode.md)
-5. [Put file's name in register](https://github.com/exupero/til/blob/main/Neovim/Put%20file's%20name%20in%20register.md)
-6. [Set env var in running instance](https://github.com/exupero/til/blob/main/Neovim/Set%20env%20var%20in%20running%20instance.md)
-7. [Vim-fugitive includes GBrowse command](https://github.com/exupero/til/blob/main/Neovim/Vim-fugitive%20includes%20GBrowse%20command.md)
-8. [Vim-medieval configuration to run Clojure code with Babashka](https://github.com/exupero/til/blob/main/Neovim/Vim-medieval%20configuration%20to%20run%20Clojure%20code%20with%20Babashka.md)
+3. [Fix treesitter error when viewing :help](https://github.com/exupero/til/blob/main/Neovim/Fix%20treesitter%20error%20when%20viewing%20_help.md)
+4. [Motion to visually select string without leading whitespace](https://github.com/exupero/til/blob/main/Neovim/Motion%20to%20visually%20select%20string%20without%20leading%20whitespace.md)
+5. [Paste from register in insert mode](https://github.com/exupero/til/blob/main/Neovim/Paste%20from%20register%20in%20insert%20mode.md)
+6. [Put file's name in register](https://github.com/exupero/til/blob/main/Neovim/Put%20file's%20name%20in%20register.md)
+7. [Set env var in running instance](https://github.com/exupero/til/blob/main/Neovim/Set%20env%20var%20in%20running%20instance.md)
+8. [Vim-fugitive includes GBrowse command](https://github.com/exupero/til/blob/main/Neovim/Vim-fugitive%20includes%20GBrowse%20command.md)
+9. [Vim-medieval configuration to run Clojure code with Babashka](https://github.com/exupero/til/blob/main/Neovim/Vim-medieval%20configuration%20to%20run%20Clojure%20code%20with%20Babashka.md)
 
 ## Python
 1. [Show code's AST](https://github.com/exupero/til/blob/main/Python/Show%20code's%20AST.md)
