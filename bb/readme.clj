@@ -1,4 +1,4 @@
-(ns build-readme
+(ns readme
   (:require [clojure.java.io :as io]
             [clojure.string :as str]))
 
@@ -24,12 +24,18 @@
                                 category "/" (str/replace nm " " "%20"))}))))))
     (file-seq (io/file "."))))
 
+(def neovim-heading
+  (str "## (Neo)Vim\n"
+       "I've only tested these in [Neovim](https://neovim.io/), but some of them also apply to Vim.\n"))
+
 (defn listing [files]
   (->> files
        (group-by :category)
        (sort-by first)
        (map (fn [[category files]]
-              (str "## " category "\n"
+              (str (if (= "Neovim" category)
+                     neovim-heading
+                     (str "## " category "\n"))
                    (->> files
                         (sort-by :title)
                         (map-indexed (fn [i {:keys [title path]}]
@@ -44,5 +50,5 @@
     (count files) " TILs\n\n---\n\n"
     (listing files)))
 
-(when (= *file* (System/getProperty "babashka.file"))
+(defn generate []
   (print (readme (tils))))

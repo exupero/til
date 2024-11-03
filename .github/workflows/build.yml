@@ -16,7 +16,7 @@ jobs:
     - name: Update README
       uses: tzafrirben/babashka-docker-action@v1.1
       with:
-        bb_cmd: 'cd main && bb scripts/build_readme.clj > README.md'
+        bb_cmd: 'cd main && bb readme > README.md'
     - name: Commit and push if README changed
       run: |-
         cd main

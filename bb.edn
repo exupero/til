@@ -1,0 +1,3 @@
+{:paths ["bb"]
+ :tasks {:requires (readme)
+         readme (readme/generate)}}
