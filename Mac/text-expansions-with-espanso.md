@@ -10,3 +10,5 @@ Trying it out today, I like Espanso for several reasons:
 - Logs — `espanso log` shows errors, which I always had trouble seeing when an Alfred workflow wasn't working
 - Forms — while not a glossy UI, I like how easy it is to create prompts with multiple fields
 - It's open source
+
+Espanso isn't specific to Mac; it also works on Windows and Linux.

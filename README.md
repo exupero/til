@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-35 TILs
+36 TILs
 
 ---
 
@@ -50,6 +50,9 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Lua
 1. [Get environment variables with os.getenv](https://github.com/exupero/til/blob/main/Lua/get-environment-variables-with-os-getenv.md)
+
+## Mac
+1. [Text expansions with Espanso](https://github.com/exupero/til/blob/main/Mac/text-expansions-with-espanso.md)
 
 ## Markdown
 1. [Backticks inside in-line code](https://github.com/exupero/til/blob/main/Markdown/backticks-inside-in-line-code.md)
