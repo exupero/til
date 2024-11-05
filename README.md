@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-36 TILs
+37 TILs
 
 ---
 
@@ -13,6 +13,10 @@ A collection of concise write-ups on small things I learn day to day across a va
 1. [Clojure.edn/read-string accepts a :default opt for unknown reader tags](https://github.com/exupero/til/blob/main/Clojure/clojure-edn-read-string-accepts-a-default-opt-for-unknown-reader-tags.md)
 2. [Meander rewrite forms can recurse using meander.epsilon/app](https://github.com/exupero/til/blob/main/Clojure/meander-rewrite-forms-can-recurse-using-meander-epsilon-app.md)
 3. [clojure.java.io/file can take multiple arguments](https://github.com/exupero/til/blob/main/Clojure/clojure-java-io-file-can-take-multiple-arguments.md)
+
+## Documentation
+1. [TILs](https://github.com/exupero/til/blob/main/Documentation/tils.md)
+2. [Use READMEs in dotfiles](https://github.com/exupero/til/blob/main/Documentation/use-readmes-in-dotfiles.md)
 
 ## Git
 1. [Config option to show diff in commit editor](https://github.com/exupero/til/blob/main/Git/config-option-to-show-diff-in-commit-editor.md)
@@ -44,9 +48,6 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Jira
 1. [Components have descriptions](https://github.com/exupero/til/blob/main/Jira/components-have-descriptions.md)
-
-## Learning
-1. [TILs](https://github.com/exupero/til/blob/main/Learning/TILs.md)
 
 ## Lua
 1. [Get environment variables with os.getenv](https://github.com/exupero/til/blob/main/Lua/get-environment-variables-with-os-getenv.md)
