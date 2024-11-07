@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-39 TILs
+41 TILs
 
 ---
 
@@ -18,6 +18,9 @@ A collection of concise write-ups on small things I learn day to day across a va
 ## Documentation
 1. [TILs](https://github.com/exupero/til/blob/main/Documentation/tils.md)
 2. [Use READMEs in dotfiles](https://github.com/exupero/til/blob/main/Documentation/use-readmes-in-dotfiles.md)
+
+## Fennel
+1. [Mask bits with `bor`](https://github.com/exupero/til/blob/main/Fennel/mask-bits-with-bor-.md)
 
 ## Git
 1. [Config option to show diff in commit editor](https://github.com/exupero/til/blob/main/Git/config-option-to-show-diff-in-commit-editor.md)
@@ -37,6 +40,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Hammerspoon
 1. [Find app by pattern of its window title](https://github.com/exupero/til/blob/main/Hammerspoon/find-app-by-pattern-of-its-window-title.md)
+2. [How to create a custom UI in a webview](https://github.com/exupero/til/blob/main/Hammerspoon/how-to-create-a-custom-ui-in-a-webview.md)
 
 ## Internet
 1. [Deep link to specific text](https://github.com/exupero/til/blob/main/Internet/deep-link-to-specific-text.md)
