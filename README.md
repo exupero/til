@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-41 TILs
+42 TILs
 
 ---
 
@@ -74,7 +74,8 @@ I've only tested these in [Neovim](https://neovim.io/), but some of them also ap
 6. [Put file's name in register](https://github.com/exupero/til/blob/main/Neovim/put-files-name-in-register.md)
 7. [Set env var in running instance](https://github.com/exupero/til/blob/main/Neovim/set-env-var-in-running-instance.md)
 8. [Vim-medieval configuration to run Clojure code with Babashka](https://github.com/exupero/til/blob/main/Neovim/vim-medieval-configuration-to-run-clojure-code-with-babashka.md)
-9. [vim-fugitive includes GBrowse command](https://github.com/exupero/til/blob/main/Neovim/vim-fugitive-includes-gbrowse-command.md)
+9. [after/ directories have to be included on runtimepath](https://github.com/exupero/til/blob/main/Neovim/after-directories-have-to-be-included-on-runtimepath.md)
+10. [vim-fugitive includes GBrowse command](https://github.com/exupero/til/blob/main/Neovim/vim-fugitive-includes-gbrowse-command.md)
 
 ## Python
 1. [Show code's AST](https://github.com/exupero/til/blob/main/Python/show-codes-ast.md)
