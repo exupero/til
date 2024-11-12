@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-43 TILs
+44 TILs
 
 ---
 
@@ -37,6 +37,9 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## GraphQL
 1. [Query for schema](https://github.com/exupero/til/blob/main/GraphQL/query-for-schema.md)
+
+## HTML
+1. [&lt;progress&gt; element exists](https://github.com/exupero/til/blob/main/HTML/-progress-element-exists.md)
 
 ## Hammerspoon
 1. [Find app by pattern of its window title](https://github.com/exupero/til/blob/main/Hammerspoon/find-app-by-pattern-of-its-window-title.md)
