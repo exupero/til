@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-47 TILs
+48 TILs
 
 ---
 
@@ -63,8 +63,9 @@ A collection of concise write-ups on small things I learn day to day across a va
 1. [Get environment variables with os.getenv](https://github.com/exupero/til/blob/main/Lua/get-environment-variables-with-os-getenv.md)
 
 ## Mac
-1. [Get current application's name in JXA](https://github.com/exupero/til/blob/main/Mac/get-current-applications-name-in-jxa.md)
-2. [Text expansions with Espanso](https://github.com/exupero/til/blob/main/Mac/text-expansions-with-espanso.md)
+1. [Espanso expansion still works after form loses and regains focus](https://github.com/exupero/til/blob/main/Mac/espanso-expansion-still-works-after-form-loses-and-regains-focus.md)
+2. [Get current application's name in JXA](https://github.com/exupero/til/blob/main/Mac/get-current-applications-name-in-jxa.md)
+3. [Text expansions with Espanso](https://github.com/exupero/til/blob/main/Mac/text-expansions-with-espanso.md)
 
 ## Markdown
 1. [Backticks inside in-line code](https://github.com/exupero/til/blob/main/Markdown/backticks-inside-in-line-code.md)
