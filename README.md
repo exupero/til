@@ -47,9 +47,6 @@ A collection of concise write-ups on small things I learn day to day across a va
 2. [How to create a custom UI in a webview](https://github.com/exupero/til/blob/main/Hammerspoon/how-to-create-a-custom-ui-in-a-webview.md)
 3. [hs.appfinder is deprecated](https://github.com/exupero/til/blob/main/Hammerspoon/hs-appfinder-is-deprecated.md)
 
-## Internet
-1. [Deep link to specific text](https://github.com/exupero/til/blob/main/Internet/deep-link-to-specific-text.md)
-
 ## Java
 1. [File.toString() returns file's path](https://github.com/exupero/til/blob/main/Java/file-tostring-returns-files-path.md)
 
@@ -93,6 +90,9 @@ I've only tested these in [Neovim](https://neovim.io/), but some of them also ap
 ## UltiSnips
 1. [Random output needs to check snip.c](https://github.com/exupero/til/blob/main/UltiSnips/random-output-needs-to-check-snip-c.md)
 2. [Snippets are found in directories named by g:UltiSnipsSnippetDirectories](https://github.com/exupero/til/blob/main/UltiSnips/snippets-are-found-in-directories-named-by-g-ultisnipssnippetdirectories.md)
+
+## Web
+1. [Deep link to specific text](https://github.com/exupero/til/blob/main/Web/deep-link-to-specific-text.md)
 
 ## Zsh
 1. [.zshenv is loaded for all shells, including Vim](https://github.com/exupero/til/blob/main/Zsh/zshenv-is-loaded-for-all-shells-including-vim.md)
