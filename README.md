@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-48 TILs
+50 TILs
 
 ---
 
@@ -41,6 +41,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## HTML
 1. [&lt;progress&gt; element exists](https://github.com/exupero/til/blob/main/HTML/-progress-element-exists.md)
+2. [Date input exists](https://github.com/exupero/til/blob/main/HTML/date-input-exists.md)
 
 ## Hammerspoon
 1. [Find app by pattern of its window title](https://github.com/exupero/til/blob/main/Hammerspoon/find-app-by-pattern-of-its-window-title.md)
@@ -50,8 +51,9 @@ A collection of concise write-ups on small things I learn day to day across a va
 ## Java
 1. [File.toString() returns file's path](https://github.com/exupero/til/blob/main/Java/file-tostring-returns-files-path.md)
 
-## Javascript
-1. [Hash sign denotes private properties](https://github.com/exupero/til/blob/main/Javascript/hash-sign-denotes-private-properties.md)
+## JavaScript
+1. [Hash sign denotes private properties](https://github.com/exupero/til/blob/main/JavaScript/hash-sign-denotes-private-properties.md)
+2. [Open print dialog with window.print](https://github.com/exupero/til/blob/main/JavaScript/open-print-dialog-with-window-print.md)
 
 ## Jira
 1. [Components have descriptions](https://github.com/exupero/til/blob/main/Jira/components-have-descriptions.md)
@@ -69,6 +71,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## (Neo)Vim
 I've only tested these in [Neovim](https://neovim.io/), but some of them also apply to Vim.
+
 1. [Close all splits except the current one](https://github.com/exupero/til/blob/main/Neovim/close-all-splits-except-the-current-one.md)
 2. [Define user command from Lua](https://github.com/exupero/til/blob/main/Neovim/define-user-command-from-lua.md)
 3. [Fix treesitter error when viewing :help](https://github.com/exupero/til/blob/main/Neovim/fix-treesitter-error-when-viewing-help.md)
