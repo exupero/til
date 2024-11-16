@@ -22,7 +22,7 @@
 
 (def neovim-heading
   (str "## (Neo)Vim\n"
-       "I've only tested these in [Neovim](https://neovim.io/), but some of them also apply to Vim.\n"))
+       "I've only tested these in [Neovim](https://neovim.io/), but some of them also apply to Vim.\n\n"))
 
 (defn listing [files]
   (->> files
