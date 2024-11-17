@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-50 TILs
+51 TILs
 
 ---
 
@@ -96,6 +96,7 @@ I've only tested these in [Neovim](https://neovim.io/), but some of them also ap
 
 ## Web
 1. [Deep link to specific text](https://github.com/exupero/til/blob/main/Web/deep-link-to-specific-text.md)
+2. [SVG text can be shifted vertically with "dominant-baseline" attribute](https://github.com/exupero/til/blob/main/Web/svg-text-can-be-shifted-vertically-with-dominant-baseline-attribute.md)
 
 ## Zsh
 1. [.zshenv is loaded for all shells, including Vim](https://github.com/exupero/til/blob/main/Zsh/zshenv-is-loaded-for-all-shells-including-vim.md)
