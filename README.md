@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-51 TILs
+52 TILs
 
 ---
 
@@ -12,9 +12,10 @@ A collection of concise write-ups on small things I learn day to day across a va
 ## Clojure
 1. [Clojure.edn/read-string accepts a :default opt for unknown reader tags](https://github.com/exupero/til/blob/main/Clojure/clojure-edn-read-string-accepts-a-default-opt-for-unknown-reader-tags.md)
 2. [Meander rewrite forms can recurse using meander.epsilon/app](https://github.com/exupero/til/blob/main/Clojure/meander-rewrite-forms-can-recurse-using-meander-epsilon-app.md)
-3. [clojure.java.io/file can take multiple arguments](https://github.com/exupero/til/blob/main/Clojure/clojure-java-io-file-can-take-multiple-arguments.md)
-4. [clojure.test has `*test-out*` var that captures test log](https://github.com/exupero/til/blob/main/Clojure/clojure-test-has-test-out-var-that-captures-test-log.md)
-5. [hashp can be added to a shadow-cljs project](https://github.com/exupero/til/blob/main/Clojure/hashp-can-be-added-to-a-shadow-cljs-project.md)
+3. [cljc.java-time supports ClojureScript](https://github.com/exupero/til/blob/main/Clojure/cljc-java-time-supports-clojurescript.md)
+4. [clojure.java.io/file can take multiple arguments](https://github.com/exupero/til/blob/main/Clojure/clojure-java-io-file-can-take-multiple-arguments.md)
+5. [clojure.test has `*test-out*` var that captures test log](https://github.com/exupero/til/blob/main/Clojure/clojure-test-has-test-out-var-that-captures-test-log.md)
+6. [hashp can be added to a shadow-cljs project](https://github.com/exupero/til/blob/main/Clojure/hashp-can-be-added-to-a-shadow-cljs-project.md)
 
 ## Documentation
 1. [TILs](https://github.com/exupero/til/blob/main/Documentation/tils.md)
