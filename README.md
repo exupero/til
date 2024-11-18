@@ -91,13 +91,15 @@ I've only tested these in [Neovim](https://neovim.io/), but some of them also ap
 ## Python
 1. [Show code's AST](https://github.com/exupero/til/blob/main/Python/show-codes-ast.md)
 
+## SVG
+1. [Text can be shifted vertically with "dominant-baseline" attribute](https://github.com/exupero/til/blob/main/SVG/text-can-be-shifted-vertically-with-dominant-baseline-attribute.md)
+
 ## UltiSnips
 1. [Random output needs to check snip.c](https://github.com/exupero/til/blob/main/UltiSnips/random-output-needs-to-check-snip-c.md)
 2. [Snippets are found in directories named by g:UltiSnipsSnippetDirectories](https://github.com/exupero/til/blob/main/UltiSnips/snippets-are-found-in-directories-named-by-g-ultisnipssnippetdirectories.md)
 
 ## Web
 1. [Deep link to specific text](https://github.com/exupero/til/blob/main/Web/deep-link-to-specific-text.md)
-2. [SVG text can be shifted vertically with "dominant-baseline" attribute](https://github.com/exupero/til/blob/main/Web/svg-text-can-be-shifted-vertically-with-dominant-baseline-attribute.md)
 
 ## Zsh
 1. [.zshenv is loaded for all shells, including Vim](https://github.com/exupero/til/blob/main/Zsh/zshenv-is-loaded-for-all-shells-including-vim.md)
