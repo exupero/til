@@ -1,4 +1,4 @@
-# SVG text can be shifted vertically with "dominant-baseline" attribute
+# Text can be shifted vertically with "dominant-baseline" attribute
 
 I've constructed a lot of SVGs programmatically, and usually when I add text I set a "dy" attribute to shift the text vertically, either to center it vertially or place it completely under its y-coordinate.
 Typically I can hard-code the value based on the font size, but that wasn't an option on a project where the font size could vary depending on input parameters, so I needed a better way.
