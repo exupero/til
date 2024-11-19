@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-52 TILs
+53 TILs
 
 ---
 
@@ -93,6 +93,9 @@ I've only tested these in [Neovim](https://neovim.io/), but some of them also ap
 
 ## SVG
 1. [Text can be shifted vertically with "dominant-baseline" attribute](https://github.com/exupero/til/blob/main/SVG/text-can-be-shifted-vertically-with-dominant-baseline-attribute.md)
+
+## Tmux
+1. [Searching pane contents shows when line was printed](https://github.com/exupero/til/blob/main/Tmux/searching-pane-contents-shows-when-line-was-printed.md)
 
 ## UltiSnips
 1. [Random output needs to check snip.c](https://github.com/exupero/til/blob/main/UltiSnips/random-output-needs-to-check-snip-c.md)
