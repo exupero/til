@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-53 TILs
+54 TILs
 
 ---
 
@@ -16,6 +16,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 4. [clojure.java.io/file can take multiple arguments](https://github.com/exupero/til/blob/main/Clojure/clojure-java-io-file-can-take-multiple-arguments.md)
 5. [clojure.test has `*test-out*` var that captures test log](https://github.com/exupero/til/blob/main/Clojure/clojure-test-has-test-out-var-that-captures-test-log.md)
 6. [hashp can be added to a shadow-cljs project](https://github.com/exupero/til/blob/main/Clojure/hashp-can-be-added-to-a-shadow-cljs-project.md)
+7. [shadow-cljs has an -A option for additional aliases](https://github.com/exupero/til/blob/main/Clojure/shadow-cljs-has-an-a-option-for-additional-aliases.md)
 
 ## Documentation
 1. [TILs](https://github.com/exupero/til/blob/main/Documentation/tils.md)
