@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-55 TILs
+56 TILs
 
 ---
 
@@ -102,6 +102,9 @@ I've only tested these in [Neovim](https://neovim.io/), but some of them also ap
 ## UltiSnips
 1. [Random output needs to check snip.c](https://github.com/exupero/til/blob/main/UltiSnips/random-output-needs-to-check-snip-c.md)
 2. [Snippets are found in directories named by g:UltiSnipsSnippetDirectories](https://github.com/exupero/til/blob/main/UltiSnips/snippets-are-found-in-directories-named-by-g-ultisnipssnippetdirectories.md)
+
+## Unix
+1. [moreutils script to timestamp lines of input](https://github.com/exupero/til/blob/main/Unix/moreutils-script-to-timestamp-lines-of-input.md)
 
 ## Web
 1. [Deep link to specific text](https://github.com/exupero/til/blob/main/Web/deep-link-to-specific-text.md)
