@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-57 TILs
+58 TILs
 
 ---
 
@@ -11,12 +11,13 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Clojure
 1. [Clojure.edn/read-string accepts a :default opt for unknown reader tags](https://github.com/exupero/til/blob/main/Clojure/clojure-edn-read-string-accepts-a-default-opt-for-unknown-reader-tags.md)
-2. [Meander rewrite forms can recurse using meander.epsilon/app](https://github.com/exupero/til/blob/main/Clojure/meander-rewrite-forms-can-recurse-using-meander-epsilon-app.md)
-3. [cljc.java-time supports ClojureScript](https://github.com/exupero/til/blob/main/Clojure/cljc-java-time-supports-clojurescript.md)
-4. [clojure.java.io/file can take multiple arguments](https://github.com/exupero/til/blob/main/Clojure/clojure-java-io-file-can-take-multiple-arguments.md)
-5. [clojure.test has `*test-out*` var that captures test log](https://github.com/exupero/til/blob/main/Clojure/clojure-test-has-test-out-var-that-captures-test-log.md)
-6. [hashp can be added to a shadow-cljs project](https://github.com/exupero/til/blob/main/Clojure/hashp-can-be-added-to-a-shadow-cljs-project.md)
-7. [shadow-cljs has an -A option for additional aliases](https://github.com/exupero/til/blob/main/Clojure/shadow-cljs-has-an-a-option-for-additional-aliases.md)
+2. [Hash symbol can be used in variable names](https://github.com/exupero/til/blob/main/Clojure/hash-symbol-can-be-used-in-variable-names.md)
+3. [Meander rewrite forms can recurse using meander.epsilon/app](https://github.com/exupero/til/blob/main/Clojure/meander-rewrite-forms-can-recurse-using-meander-epsilon-app.md)
+4. [cljc.java-time supports ClojureScript](https://github.com/exupero/til/blob/main/Clojure/cljc-java-time-supports-clojurescript.md)
+5. [clojure.java.io/file can take multiple arguments](https://github.com/exupero/til/blob/main/Clojure/clojure-java-io-file-can-take-multiple-arguments.md)
+6. [clojure.test has `*test-out*` var that captures test log](https://github.com/exupero/til/blob/main/Clojure/clojure-test-has-test-out-var-that-captures-test-log.md)
+7. [hashp can be added to a shadow-cljs project](https://github.com/exupero/til/blob/main/Clojure/hashp-can-be-added-to-a-shadow-cljs-project.md)
+8. [shadow-cljs has an -A option for additional aliases](https://github.com/exupero/til/blob/main/Clojure/shadow-cljs-has-an-a-option-for-additional-aliases.md)
 
 ## Documentation
 1. [TILs](https://github.com/exupero/til/blob/main/Documentation/tils.md)
