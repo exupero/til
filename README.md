@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-61 TILs
+62 TILs
 
 ---
 
@@ -32,9 +32,10 @@ A collection of concise write-ups on small things I learn day to day across a va
 1. [Config option to show diff in commit editor](https://github.com/exupero/til/blob/main/Git/config-option-to-show-diff-in-commit-editor.md)
 2. [Diff --changes exits with status code 1 when there are changes](https://github.com/exupero/til/blob/main/Git/diff-changes-exits-with-status-code-when-there-are-changes.md)
 3. [Force output to be colored](https://github.com/exupero/til/blob/main/Git/force-output-to-be-colored.md)
-4. [Pre-commit hook to check for text in changed files](https://github.com/exupero/til/blob/main/Git/pre-commit-hook-to-check-for-text-in-changed-files.md)
-5. [Pre-populate commit message](https://github.com/exupero/til/blob/main/Git/pre-populate-commit-message.md)
-6. [Pull with --rebase gets forced pushes](https://github.com/exupero/til/blob/main/Git/pull-with-rebase-gets-forced-pushes.md)
+4. [Move an existing branch to another commit](https://github.com/exupero/til/blob/main/Git/move-an-existing-branch-to-another-commit.md)
+5. [Pre-commit hook to check for text in changed files](https://github.com/exupero/til/blob/main/Git/pre-commit-hook-to-check-for-text-in-changed-files.md)
+6. [Pre-populate commit message](https://github.com/exupero/til/blob/main/Git/pre-populate-commit-message.md)
+7. [Pull with --rebase gets forced pushes](https://github.com/exupero/til/blob/main/Git/pull-with-rebase-gets-forced-pushes.md)
 
 ## GitHub
 1. ['gh alias set' can run shell commands](https://github.com/exupero/til/blob/main/GitHub/gh-alias-set-can-run-shell-commands.md)
