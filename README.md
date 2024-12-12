@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-64 TILs
+65 TILs
 
 ---
 
@@ -57,7 +57,8 @@ A collection of concise write-ups on small things I learn day to day across a va
 3. [hs.appfinder is deprecated](https://github.com/exupero/til/blob/main/Hammerspoon/hs-appfinder-is-deprecated.md)
 
 ## Java
-1. [File.toString() returns file's path](https://github.com/exupero/til/blob/main/Java/file-tostring-returns-files-path.md)
+1. [Create a UUID of all zeros](https://github.com/exupero/til/blob/main/Java/create-a-uuid-of-all-zeros.md)
+2. [File.toString() returns file's path](https://github.com/exupero/til/blob/main/Java/file-tostring-returns-files-path.md)
 
 ## JavaScript
 1. [Hash sign denotes private properties](https://github.com/exupero/til/blob/main/JavaScript/hash-sign-denotes-private-properties.md)
