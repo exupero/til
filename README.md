@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-65 TILs
+67 TILs
 
 ---
 
@@ -37,6 +37,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 5. [Pre-commit hook to check for text in changed files](https://github.com/exupero/til/blob/main/Git/pre-commit-hook-to-check-for-text-in-changed-files.md)
 6. [Pre-populate commit message](https://github.com/exupero/til/blob/main/Git/pre-populate-commit-message.md)
 7. [Pull with --rebase gets forced pushes](https://github.com/exupero/til/blob/main/Git/pull-with-rebase-gets-forced-pushes.md)
+8. [Submit patch hunk with single key](https://github.com/exupero/til/blob/main/Git/submit-patch-hunk-with-single-key.md)
 
 ## GitHub
 1. ['gh alias set' can run shell commands](https://github.com/exupero/til/blob/main/GitHub/gh-alias-set-can-run-shell-commands.md)
@@ -71,9 +72,10 @@ A collection of concise write-ups on small things I learn day to day across a va
 1. [Get environment variables with os.getenv](https://github.com/exupero/til/blob/main/Lua/get-environment-variables-with-os-getenv.md)
 
 ## Mac
-1. [Espanso expansion still works after form loses and regains focus](https://github.com/exupero/til/blob/main/Mac/espanso-expansion-still-works-after-form-loses-and-regains-focus.md)
-2. [Get current application's name in JXA](https://github.com/exupero/til/blob/main/Mac/get-current-applications-name-in-jxa.md)
-3. [Text expansions with Espanso](https://github.com/exupero/til/blob/main/Mac/text-expansions-with-espanso.md)
+1. [Capture hover state in screenshot](https://github.com/exupero/til/blob/main/Mac/capture-hover-state-in-screenshot.md)
+2. [Espanso expansion still works after form loses and regains focus](https://github.com/exupero/til/blob/main/Mac/espanso-expansion-still-works-after-form-loses-and-regains-focus.md)
+3. [Get current application's name in JXA](https://github.com/exupero/til/blob/main/Mac/get-current-applications-name-in-jxa.md)
+4. [Text expansions with Espanso](https://github.com/exupero/til/blob/main/Mac/text-expansions-with-espanso.md)
 
 ## Markdown
 1. [Backticks inside in-line code](https://github.com/exupero/til/blob/main/Markdown/backticks-inside-in-line-code.md)
