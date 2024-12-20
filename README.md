@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-67 TILs
+68 TILs
 
 ---
 
@@ -56,6 +56,9 @@ A collection of concise write-ups on small things I learn day to day across a va
 1. [Find app by pattern of its window title](https://github.com/exupero/til/blob/main/Hammerspoon/find-app-by-pattern-of-its-window-title.md)
 2. [How to create a custom UI in a webview](https://github.com/exupero/til/blob/main/Hammerspoon/how-to-create-a-custom-ui-in-a-webview.md)
 3. [hs.appfinder is deprecated](https://github.com/exupero/til/blob/main/Hammerspoon/hs-appfinder-is-deprecated.md)
+
+## IntelliJ
+1. [Add key mappings to vim-mode](https://github.com/exupero/til/blob/main/IntelliJ/add-key-mappings-to-vim-mode.md)
 
 ## Java
 1. [Create a UUID of all zeros](https://github.com/exupero/til/blob/main/Java/create-a-uuid-of-all-zeros.md)
