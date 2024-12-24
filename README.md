@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-68 TILs
+69 TILs
 
 ---
 
@@ -89,15 +89,16 @@ I've only tested these in [Neovim](https://neovim.io/), but some of them also ap
 1. [Close all splits except the current one](https://github.com/exupero/til/blob/main/Neovim/close-all-splits-except-the-current-one.md)
 2. [Define user command from Lua](https://github.com/exupero/til/blob/main/Neovim/define-user-command-from-lua.md)
 3. [Fix treesitter error when viewing :help](https://github.com/exupero/til/blob/main/Neovim/fix-treesitter-error-when-viewing-help.md)
-4. [Motion to visually select string without leading whitespace](https://github.com/exupero/til/blob/main/Neovim/motion-to-visually-select-string-without-leading-whitespace.md)
-5. [Move split to new tab with Ctrl-w T](https://github.com/exupero/til/blob/main/Neovim/move-split-to-new-tab-with-ctrl-w-t.md)
-6. [Paste from register in insert mode](https://github.com/exupero/til/blob/main/Neovim/paste-from-register-in-insert-mode.md)
-7. [Put file's name in register](https://github.com/exupero/til/blob/main/Neovim/put-files-name-in-register.md)
-8. [Replace a tree-sitter node with new text](https://github.com/exupero/til/blob/main/Neovim/replace-a-tree-sitter-node-with-new-text.md)
-9. [Set env var in running instance](https://github.com/exupero/til/blob/main/Neovim/set-env-var-in-running-instance.md)
-10. [Vim-medieval configuration to run Clojure code with Babashka](https://github.com/exupero/til/blob/main/Neovim/vim-medieval-configuration-to-run-clojure-code-with-babashka.md)
-11. [after/ directories have to be included on runtimepath](https://github.com/exupero/til/blob/main/Neovim/after-directories-have-to-be-included-on-runtimepath.md)
-12. [vim-fugitive includes GBrowse command](https://github.com/exupero/til/blob/main/Neovim/vim-fugitive-includes-gbrowse-command.md)
+4. [List keymappings and their origins](https://github.com/exupero/til/blob/main/Neovim/list-keymappings-and-their-origins.md)
+5. [Motion to visually select string without leading whitespace](https://github.com/exupero/til/blob/main/Neovim/motion-to-visually-select-string-without-leading-whitespace.md)
+6. [Move split to new tab with Ctrl-w T](https://github.com/exupero/til/blob/main/Neovim/move-split-to-new-tab-with-ctrl-w-t.md)
+7. [Paste from register in insert mode](https://github.com/exupero/til/blob/main/Neovim/paste-from-register-in-insert-mode.md)
+8. [Put file's name in register](https://github.com/exupero/til/blob/main/Neovim/put-files-name-in-register.md)
+9. [Replace a tree-sitter node with new text](https://github.com/exupero/til/blob/main/Neovim/replace-a-tree-sitter-node-with-new-text.md)
+10. [Set env var in running instance](https://github.com/exupero/til/blob/main/Neovim/set-env-var-in-running-instance.md)
+11. [Vim-medieval configuration to run Clojure code with Babashka](https://github.com/exupero/til/blob/main/Neovim/vim-medieval-configuration-to-run-clojure-code-with-babashka.md)
+12. [after/ directories have to be included on runtimepath](https://github.com/exupero/til/blob/main/Neovim/after-directories-have-to-be-included-on-runtimepath.md)
+13. [vim-fugitive includes GBrowse command](https://github.com/exupero/til/blob/main/Neovim/vim-fugitive-includes-gbrowse-command.md)
 
 ## Obsidian
 1. [Projects plugin exists](https://github.com/exupero/til/blob/main/Obsidian/projects-plugin-exists.md)
