@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-69 TILs
+70 TILs
 
 ---
 
@@ -125,6 +125,7 @@ I've only tested these in [Neovim](https://neovim.io/), but some of them also ap
 
 ## Web
 1. [Deep link to specific text](https://github.com/exupero/til/blob/main/Web/deep-link-to-specific-text.md)
+2. [Use mitmproxy to get CLI network inspector](https://github.com/exupero/til/blob/main/Web/use-mitmproxy-to-get-cli-network-inspector.md)
 
 ## Zsh
 1. [.zshenv is loaded for all shells, including Vim](https://github.com/exupero/til/blob/main/Zsh/zshenv-is-loaded-for-all-shells-including-vim.md)
