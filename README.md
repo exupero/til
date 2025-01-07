@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-70 TILs
+72 TILs
 
 ---
 
@@ -107,7 +107,8 @@ I've only tested these in [Neovim](https://neovim.io/), but some of them also ap
 1. [Embedded language for JSON paths](https://github.com/exupero/til/blob/main/PostgreSQL/embedded-language-for-json-paths.md)
 
 ## Python
-1. [Show code's AST](https://github.com/exupero/til/blob/main/Python/show-codes-ast.md)
+1. [Redirect print to a file with redirect_stdout](https://github.com/exupero/til/blob/main/Python/redirect-print-to-a-file-with-redirect-stdout.md)
+2. [Show code's AST](https://github.com/exupero/til/blob/main/Python/show-codes-ast.md)
 
 ## SVG
 1. [Text can be shifted vertically with "dominant-baseline" attribute](https://github.com/exupero/til/blob/main/SVG/text-can-be-shifted-vertically-with-dominant-baseline-attribute.md)
@@ -124,8 +125,9 @@ I've only tested these in [Neovim](https://neovim.io/), but some of them also ap
 2. [moreutils script to timestamp lines of input](https://github.com/exupero/til/blob/main/Unix/moreutils-script-to-timestamp-lines-of-input.md)
 
 ## Web
-1. [Deep link to specific text](https://github.com/exupero/til/blob/main/Web/deep-link-to-specific-text.md)
-2. [Use mitmproxy to get CLI network inspector](https://github.com/exupero/til/blob/main/Web/use-mitmproxy-to-get-cli-network-inspector.md)
+1. [Chrome has DevTools snippets](https://github.com/exupero/til/blob/main/Web/chrome-has-devtools-snippets.md)
+2. [Deep link to specific text](https://github.com/exupero/til/blob/main/Web/deep-link-to-specific-text.md)
+3. [Use mitmproxy to get CLI network inspector](https://github.com/exupero/til/blob/main/Web/use-mitmproxy-to-get-cli-network-inspector.md)
 
 ## Zsh
 1. [.zshenv is loaded for all shells, including Vim](https://github.com/exupero/til/blob/main/Zsh/zshenv-is-loaded-for-all-shells-including-vim.md)
