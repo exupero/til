@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-75 TILs
+76 TILs
 
 ---
 
@@ -122,10 +122,11 @@ I've only tested these in [Neovim](https://neovim.io/), but some of them also ap
 
 ## Unix
 1. [Diff directories](https://github.com/exupero/til/blob/main/Unix/diff-directories.md)
-2. [Move shell cursor with `tput` command](https://github.com/exupero/til/blob/main/Unix/move-shell-cursor-with-tput-command.md)
-3. [Slice array with `jq`](https://github.com/exupero/til/blob/main/Unix/slice-array-with-jq.md)
-4. [`exec` replaces current process](https://github.com/exupero/til/blob/main/Unix/exec-replaces-current-process.md)
-5. [moreutils script to timestamp lines of input](https://github.com/exupero/til/blob/main/Unix/moreutils-script-to-timestamp-lines-of-input.md)
+2. [Drop lines from beginning of stdin](https://github.com/exupero/til/blob/main/Unix/drop-lines-from-beginning-of-stdin.md)
+3. [Move shell cursor with `tput` command](https://github.com/exupero/til/blob/main/Unix/move-shell-cursor-with-tput-command.md)
+4. [Slice array with `jq`](https://github.com/exupero/til/blob/main/Unix/slice-array-with-jq.md)
+5. [`exec` replaces current process](https://github.com/exupero/til/blob/main/Unix/exec-replaces-current-process.md)
+6. [moreutils script to timestamp lines of input](https://github.com/exupero/til/blob/main/Unix/moreutils-script-to-timestamp-lines-of-input.md)
 
 ## Web
 1. [Chrome has DevTools snippets](https://github.com/exupero/til/blob/main/Web/chrome-has-devtools-snippets.md)
