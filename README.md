@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-79 TILs
+80 TILs
 
 ---
 
@@ -98,9 +98,10 @@ I've only tested these in [Neovim](https://neovim.io/), but some of them also ap
 9. [Put file's name in register](https://github.com/exupero/til/blob/main/Neovim/put-files-name-in-register.md)
 10. [Replace a tree-sitter node with new text](https://github.com/exupero/til/blob/main/Neovim/replace-a-tree-sitter-node-with-new-text.md)
 11. [Set env var in running instance](https://github.com/exupero/til/blob/main/Neovim/set-env-var-in-running-instance.md)
-12. [Vim-medieval configuration to run Clojure code with Babashka](https://github.com/exupero/til/blob/main/Neovim/vim-medieval-configuration-to-run-clojure-code-with-babashka.md)
-13. [after/ directories have to be included on runtimepath](https://github.com/exupero/til/blob/main/Neovim/after-directories-have-to-be-included-on-runtimepath.md)
-14. [vim-fugitive includes GBrowse command](https://github.com/exupero/til/blob/main/Neovim/vim-fugitive-includes-gbrowse-command.md)
+12. [Stop search at beginning or end of file](https://github.com/exupero/til/blob/main/Neovim/stop-search-at-beginning-or-end-of-file.md)
+13. [Vim-medieval configuration to run Clojure code with Babashka](https://github.com/exupero/til/blob/main/Neovim/vim-medieval-configuration-to-run-clojure-code-with-babashka.md)
+14. [after/ directories have to be included on runtimepath](https://github.com/exupero/til/blob/main/Neovim/after-directories-have-to-be-included-on-runtimepath.md)
+15. [vim-fugitive includes GBrowse command](https://github.com/exupero/til/blob/main/Neovim/vim-fugitive-includes-gbrowse-command.md)
 
 ## Obsidian
 1. [Projects plugin exists](https://github.com/exupero/til/blob/main/Obsidian/projects-plugin-exists.md)
