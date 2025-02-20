@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-80 TILs
+81 TILs
 
 ---
 
@@ -45,6 +45,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 2. [CLI commands for common needs](https://github.com/exupero/til/blob/main/GitHub/cli-commands-for-common-needs.md)
 3. [Dismiss a review that requested changes](https://github.com/exupero/til/blob/main/GitHub/dismiss-a-review-that-requested-changes.md)
 4. [RSS feed of commit activity](https://github.com/exupero/til/blob/main/GitHub/rss-feed-of-commit-activity.md)
+5. [Search PRs merged between two dates](https://github.com/exupero/til/blob/main/GitHub/search-prs-merged-between-two-dates.md)
 
 ## GraphQL
 1. [Query for schema](https://github.com/exupero/til/blob/main/GraphQL/query-for-schema.md)
