@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-81 TILs
+82 TILs
 
 ---
 
@@ -79,8 +79,9 @@ A collection of concise write-ups on small things I learn day to day across a va
 ## Mac
 1. [Capture hover state in screenshot](https://github.com/exupero/til/blob/main/Mac/capture-hover-state-in-screenshot.md)
 2. [Espanso expansion still works after form loses and regains focus](https://github.com/exupero/til/blob/main/Mac/espanso-expansion-still-works-after-form-loses-and-regains-focus.md)
-3. [Get current application's name in JXA](https://github.com/exupero/til/blob/main/Mac/get-current-applications-name-in-jxa.md)
-4. [Text expansions with Espanso](https://github.com/exupero/til/blob/main/Mac/text-expansions-with-espanso.md)
+3. [Get HTML content from clipboard using AppleScript](https://github.com/exupero/til/blob/main/Mac/get-html-content-from-clipboard-using-applescript.md)
+4. [Get current application's name in JXA](https://github.com/exupero/til/blob/main/Mac/get-current-applications-name-in-jxa.md)
+5. [Text expansions with Espanso](https://github.com/exupero/til/blob/main/Mac/text-expansions-with-espanso.md)
 
 ## Markdown
 1. [Backticks inside in-line code](https://github.com/exupero/til/blob/main/Markdown/backticks-inside-in-line-code.md)
