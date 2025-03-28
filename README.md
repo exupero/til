@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-82 TILs
+83 TILs
 
 ---
 
@@ -72,6 +72,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Jira
 1. [Components have descriptions](https://github.com/exupero/til/blob/main/Jira/components-have-descriptions.md)
+2. [Tickets have "History" tab](https://github.com/exupero/til/blob/main/Jira/tickets-have-history-tab.md)
 
 ## Lua
 1. [Get environment variables with os.getenv](https://github.com/exupero/til/blob/main/Lua/get-environment-variables-with-os-getenv.md)
