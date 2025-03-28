@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-83 TILs
+84 TILs
 
 ---
 
@@ -110,7 +110,8 @@ I've only tested these in [Neovim](https://neovim.io/), but some of them also ap
 1. [Projects plugin exists](https://github.com/exupero/til/blob/main/Obsidian/projects-plugin-exists.md)
 
 ## PostgreSQL
-1. [Embedded language for JSON paths](https://github.com/exupero/til/blob/main/PostgreSQL/embedded-language-for-json-paths.md)
+1. [Access PostgreSQL docs with `man`](https://github.com/exupero/til/blob/main/PostgreSQL/access-postgresql-docs-with-man-.md)
+2. [Embedded language for JSON paths](https://github.com/exupero/til/blob/main/PostgreSQL/embedded-language-for-json-paths.md)
 
 ## Python
 1. [Redirect print to a file with redirect_stdout](https://github.com/exupero/til/blob/main/Python/redirect-print-to-a-file-with-redirect-stdout.md)
