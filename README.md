@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-87 TILs
+88 TILs
 
 ---
 
@@ -146,3 +146,4 @@ I've only tested these in [Neovim](https://neovim.io/), but some of them also ap
 
 ## Zsh
 1. [.zshenv is loaded for all shells, including Vim](https://github.com/exupero/til/blob/main/Zsh/zshenv-is-loaded-for-all-shells-including-vim.md)
+2. [`preexec` hook to log commands](https://github.com/exupero/til/blob/main/Zsh/-preexec-hook-to-log-commands.md)
