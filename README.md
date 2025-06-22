@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-99 TILs
+100 TILs
 
 ---
 
@@ -77,7 +77,8 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## JavaScript
 1. [Hash sign denotes private properties](https://github.com/exupero/til/blob/main/JavaScript/hash-sign-denotes-private-properties.md)
-2. [Open print dialog with window.print](https://github.com/exupero/til/blob/main/JavaScript/open-print-dialog-with-window-print.md)
+2. [Inputs have `.valueAsNumber` and `.valueAsDate`](https://github.com/exupero/til/blob/main/JavaScript/inputs-have-valueasnumber-and-valueasdate-.md)
+3. [Open print dialog with window.print](https://github.com/exupero/til/blob/main/JavaScript/open-print-dialog-with-window-print.md)
 
 ## Jira
 1. [Components have descriptions](https://github.com/exupero/til/blob/main/Jira/components-have-descriptions.md)
