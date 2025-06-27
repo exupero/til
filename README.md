@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-100 TILs
+101 TILs
 
 ---
 
@@ -140,17 +140,18 @@ I've only tested these in [Neovim](https://neovim.io/), but some of them also ap
 2. [Snippets are found in directories named by g:UltiSnipsSnippetDirectories](https://github.com/exupero/til/blob/main/UltiSnips/snippets-are-found-in-directories-named-by-g-ultisnipssnippetdirectories.md)
 
 ## Unix
-1. [Convert Unix seconds to a timestamp](https://github.com/exupero/til/blob/main/Unix/convert-unix-seconds-to-a-timestamp.md)
-2. [Diff directories](https://github.com/exupero/til/blob/main/Unix/diff-directories.md)
-3. [Diff directories with `diff -r`](https://github.com/exupero/til/blob/main/Unix/diff-directories-with-diff-r-.md)
-4. [Drop lines from beginning of stdin](https://github.com/exupero/til/blob/main/Unix/drop-lines-from-beginning-of-stdin.md)
-5. [Get current datetime as ISO8601 timestamp](https://github.com/exupero/til/blob/main/Unix/get-current-datetime-as-iso-timestamp.md)
-6. [List all paths from $PATH where an executable is found](https://github.com/exupero/til/blob/main/Unix/list-all-paths-from-path-where-an-executable-is-found.md)
-7. [Move shell cursor with `tput` command](https://github.com/exupero/til/blob/main/Unix/move-shell-cursor-with-tput-command.md)
-8. [Parse nested, stringified JSON with jq](https://github.com/exupero/til/blob/main/Unix/parse-nested-stringified-json-with-jq.md)
-9. [Slice array with `jq`](https://github.com/exupero/til/blob/main/Unix/slice-array-with-jq.md)
-10. [`exec` replaces current process](https://github.com/exupero/til/blob/main/Unix/exec-replaces-current-process.md)
-11. [moreutils script to timestamp lines of input](https://github.com/exupero/til/blob/main/Unix/moreutils-script-to-timestamp-lines-of-input.md)
+1. [Bash has `$'...'` syntax](https://github.com/exupero/til/blob/main/Unix/bash-has-dollar-sign-string-syntax.md)
+2. [Convert Unix seconds to a timestamp](https://github.com/exupero/til/blob/main/Unix/convert-unix-seconds-to-a-timestamp.md)
+3. [Diff directories](https://github.com/exupero/til/blob/main/Unix/diff-directories.md)
+4. [Diff directories with `diff -r`](https://github.com/exupero/til/blob/main/Unix/diff-directories-with-diff-r-.md)
+5. [Drop lines from beginning of stdin](https://github.com/exupero/til/blob/main/Unix/drop-lines-from-beginning-of-stdin.md)
+6. [Get current datetime as ISO8601 timestamp](https://github.com/exupero/til/blob/main/Unix/get-current-datetime-as-iso-timestamp.md)
+7. [List all paths from $PATH where an executable is found](https://github.com/exupero/til/blob/main/Unix/list-all-paths-from-path-where-an-executable-is-found.md)
+8. [Move shell cursor with `tput` command](https://github.com/exupero/til/blob/main/Unix/move-shell-cursor-with-tput-command.md)
+9. [Parse nested, stringified JSON with jq](https://github.com/exupero/til/blob/main/Unix/parse-nested-stringified-json-with-jq.md)
+10. [Slice array with `jq`](https://github.com/exupero/til/blob/main/Unix/slice-array-with-jq.md)
+11. [`exec` replaces current process](https://github.com/exupero/til/blob/main/Unix/exec-replaces-current-process.md)
+12. [moreutils script to timestamp lines of input](https://github.com/exupero/til/blob/main/Unix/moreutils-script-to-timestamp-lines-of-input.md)
 
 ## Web
 1. [Chrome has DevTools snippets](https://github.com/exupero/til/blob/main/Web/chrome-has-devtools-snippets.md)
