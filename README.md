@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-102 TILs
+103 TILs
 
 ---
 
@@ -126,8 +126,9 @@ I've only tested these in [Neovim](https://neovim.io/), but some of them also ap
 
 ## Python
 1. [Copying and looping over dict is faster than dict comprehension](https://github.com/exupero/til/blob/main/Python/copying-and-looping-over-dict-is-faster-than-dict-comprehension.md)
-2. [Redirect print to a file with redirect_stdout](https://github.com/exupero/til/blob/main/Python/redirect-print-to-a-file-with-redirect-stdout.md)
-3. [Show code's AST](https://github.com/exupero/til/blob/main/Python/show-codes-ast.md)
+2. [Python has '*' and '/' syntax for specifying positional and keyword argument requirements](https://github.com/exupero/til/blob/main/Python/python-has-and-syntax-for-specifying-positional-and-keyword-argument-requirements.md)
+3. [Redirect print to a file with redirect_stdout](https://github.com/exupero/til/blob/main/Python/redirect-print-to-a-file-with-redirect-stdout.md)
+4. [Show code's AST](https://github.com/exupero/til/blob/main/Python/show-codes-ast.md)
 
 ## SVG
 1. [Text can be shifted vertically with "dominant-baseline" attribute](https://github.com/exupero/til/blob/main/SVG/text-can-be-shifted-vertically-with-dominant-baseline-attribute.md)
