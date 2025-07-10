@@ -125,8 +125,8 @@ I've only tested these in [Neovim](https://neovim.io/), but some of them also ap
 2. [Embedded language for JSON paths](https://github.com/exupero/til/blob/main/PostgreSQL/embedded-language-for-json-paths.md)
 
 ## Python
-1. [Copying and looping over dict is faster than dict comprehension](https://github.com/exupero/til/blob/main/Python/copying-and-looping-over-dict-is-faster-than-dict-comprehension.md)
-2. [Python has '*' and '/' syntax for specifying positional and keyword argument requirements](https://github.com/exupero/til/blob/main/Python/python-has-and-syntax-for-specifying-positional-and-keyword-argument-requirements.md)
+1. ['*' and '/' syntax for specifying positional and keyword argument requirements](https://github.com/exupero/til/blob/main/Python/asterisk-and-slash-syntax-for-specifying-positional-and-keyword-argument-requirements.md)
+2. [Copying and looping over dict is faster than dict comprehension](https://github.com/exupero/til/blob/main/Python/copying-and-looping-over-dict-is-faster-than-dict-comprehension.md)
 3. [Redirect print to a file with redirect_stdout](https://github.com/exupero/til/blob/main/Python/redirect-print-to-a-file-with-redirect-stdout.md)
 4. [Show code's AST](https://github.com/exupero/til/blob/main/Python/show-codes-ast.md)
 
