@@ -1,4 +1,4 @@
-# Python has '*' and '/' syntax for specifying positional and keyword argument requirements
+# '*' and '/' syntax for specifying positional and keyword argument requirements
 
 Python's syntax for splatting arguments uses an asterisk followed by a variable name that will hold the splatted values, e.g., `def example(*args):`.
 A couple years ago I encountered an asterisk without a name following it, e.g., `def example(a, *, b, c):`, which requires arguments after the asterisk to be passed as keyword arguments, e.g., `example(1, b=2, c=3)`.
