@@ -11,4 +11,4 @@ with open('help.txt', 'w') as f:
         ...
 ```
 
-The necessary changes are relatively uninvasive, though if you want to wrap a big chunk of code, you'll have to indent it all.
+The necessary changes are relatively non-invasive, though you'll have to indent the code you want wrapped.
