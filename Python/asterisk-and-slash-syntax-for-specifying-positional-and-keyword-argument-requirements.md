@@ -8,3 +8,5 @@ Arguments before the asterisk may also be passed as keyword arguments, but may b
 A few days ago I saw a bare slash in an argument list, e.g., `def example(a, /, b, c):`.
 According to [this](https://realpython.com/python-asterisk-and-slash-special-parameters/), that disallows arguments before the slash from being passed as keyword arguments, and allows arguments after the slash to be either positional or keyword arguments.
 Calling it as `example(a=1, b=2, c=3)` will raise a TypeError.
+
+Put simply, the asterisk _requires_ arguments after it to be keyword arguments, the slash disallows arguments before it _from being_ keyword arguments.
