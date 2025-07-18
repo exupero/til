@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-103 TILs
+104 TILs
 
 ---
 
@@ -11,21 +11,22 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Clojure
 1. [Clojure.edn/read-string accepts a :default opt for unknown reader tags](https://github.com/exupero/til/blob/main/Clojure/clojure-edn-read-string-accepts-a-default-opt-for-unknown-reader-tags.md)
-2. [Hash symbol can be used in variable names](https://github.com/exupero/til/blob/main/Clojure/hash-symbol-can-be-used-in-variable-names.md)
-3. [Meander patterns match remaining key-values with &](https://github.com/exupero/til/blob/main/Clojure/meander-patterns-match-remaining-key-values-with-.md)
-4. [Meander rewrite forms can recurse using meander.epsilon/app](https://github.com/exupero/til/blob/main/Clojure/meander-rewrite-forms-can-recurse-using-meander-epsilon-app.md)
-5. [Parse sequence of JSON values with cheshire.core](https://github.com/exupero/til/blob/main/Clojure/parse-sequence-of-json-values-with-cheshire-core.md)
-6. [Re-frame has a subscription shorthand for accessing a DB field](https://github.com/exupero/til/blob/main/Clojure/re-frame-has-a-subscription-shorthand-for-accessing-a-db-field.md)
-7. [Running Clojure code as a shell script](https://github.com/exupero/til/blob/main/Clojure/running-clojure-code-as-a-shell-script.md)
-8. [Specify multiple aliases with ':'](https://github.com/exupero/til/blob/main/Clojure/specify-multiple-aliases-with-.md)
-9. [Use Meander's `$` to search nested structures](https://github.com/exupero/til/blob/main/Clojure/use-meanders-to-search-nested-structures.md)
-10. [Use `update-vals` to map a hash-map's values](https://github.com/exupero/til/blob/main/Clojure/use-update-vals-to-map-a-hash-maps-values.md)
-11. [`atom` can take a validator function](https://github.com/exupero/til/blob/main/Clojure/-atom-can-take-a-validator-function.md)
-12. [cljc.java-time supports ClojureScript](https://github.com/exupero/til/blob/main/Clojure/cljc-java-time-supports-clojurescript.md)
-13. [clojure.java.io/file can take multiple arguments](https://github.com/exupero/til/blob/main/Clojure/clojure-java-io-file-can-take-multiple-arguments.md)
-14. [clojure.test has `*test-out*` var that captures test log](https://github.com/exupero/til/blob/main/Clojure/clojure-test-has-test-out-var-that-captures-test-log.md)
-15. [hashp can be added to a shadow-cljs project](https://github.com/exupero/til/blob/main/Clojure/hashp-can-be-added-to-a-shadow-cljs-project.md)
-16. [shadow-cljs has an -A option for additional aliases](https://github.com/exupero/til/blob/main/Clojure/shadow-cljs-has-an-a-option-for-additional-aliases.md)
+2. [Destructure namespaced keys with `:{namespace}/keys`](https://github.com/exupero/til/blob/main/Clojure/destructure-namespaced-keys-with-namespace-keys-.md)
+3. [Hash symbol can be used in variable names](https://github.com/exupero/til/blob/main/Clojure/hash-symbol-can-be-used-in-variable-names.md)
+4. [Meander patterns match remaining key-values with &](https://github.com/exupero/til/blob/main/Clojure/meander-patterns-match-remaining-key-values-with-.md)
+5. [Meander rewrite forms can recurse using meander.epsilon/app](https://github.com/exupero/til/blob/main/Clojure/meander-rewrite-forms-can-recurse-using-meander-epsilon-app.md)
+6. [Parse sequence of JSON values with cheshire.core](https://github.com/exupero/til/blob/main/Clojure/parse-sequence-of-json-values-with-cheshire-core.md)
+7. [Re-frame has a subscription shorthand for accessing a DB field](https://github.com/exupero/til/blob/main/Clojure/re-frame-has-a-subscription-shorthand-for-accessing-a-db-field.md)
+8. [Running Clojure code as a shell script](https://github.com/exupero/til/blob/main/Clojure/running-clojure-code-as-a-shell-script.md)
+9. [Specify multiple aliases with ':'](https://github.com/exupero/til/blob/main/Clojure/specify-multiple-aliases-with-.md)
+10. [Use Meander's `$` to search nested structures](https://github.com/exupero/til/blob/main/Clojure/use-meanders-to-search-nested-structures.md)
+11. [Use `update-vals` to map a hash-map's values](https://github.com/exupero/til/blob/main/Clojure/use-update-vals-to-map-a-hash-maps-values.md)
+12. [`atom` can take a validator function](https://github.com/exupero/til/blob/main/Clojure/-atom-can-take-a-validator-function.md)
+13. [cljc.java-time supports ClojureScript](https://github.com/exupero/til/blob/main/Clojure/cljc-java-time-supports-clojurescript.md)
+14. [clojure.java.io/file can take multiple arguments](https://github.com/exupero/til/blob/main/Clojure/clojure-java-io-file-can-take-multiple-arguments.md)
+15. [clojure.test has `*test-out*` var that captures test log](https://github.com/exupero/til/blob/main/Clojure/clojure-test-has-test-out-var-that-captures-test-log.md)
+16. [hashp can be added to a shadow-cljs project](https://github.com/exupero/til/blob/main/Clojure/hashp-can-be-added-to-a-shadow-cljs-project.md)
+17. [shadow-cljs has an -A option for additional aliases](https://github.com/exupero/til/blob/main/Clojure/shadow-cljs-has-an-a-option-for-additional-aliases.md)
 
 ## Documentation
 1. [TILs](https://github.com/exupero/til/blob/main/Documentation/tils.md)
