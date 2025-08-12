@@ -31,6 +31,10 @@ with timer("print('hello!')"):
 Embarking on such a task again, I wondered if I could use a decorator to instrument automatically the compiled bytecode of a function.
 Fortunately, before I tackled such a problem, I looked for prior work and found [line-profiler](https://pypi.org/project/line-profiler/).
 When a Python script is run with the `kernprof` script, any function or class decorated with `@profile` will be instrumented to collect profiling data.
-`python -m line_profiler [some file].lprof` will show the number of hits on each instrumented line, and the total time spent executing each line.
+`@profile` does not have to be imported—very convenient!
+`python -m line_profiler [some file].lprof` shows data from the `.lprof` file produced by `kernprof`, including the number of hits on each instrumented line, and the total time spent executing each line.
 
 Much better than my simple context manager!
+
+(The one downside so far is that when I run a script that has `@profile` decorators with Python instead of `kernprof`, it raises an error that the `profile` decorator is not defined.
+Maybe there's a solution I haven't found yet?)
