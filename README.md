@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-108 TILs
+109 TILs
 
 ---
 
@@ -154,9 +154,10 @@ I've only tested these in [Neovim](https://neovim.io/), but some of them also ap
 8. [List all paths from $PATH where an executable is found](https://github.com/exupero/til/blob/main/Unix/list-all-paths-from-path-where-an-executable-is-found.md)
 9. [Move shell cursor with `tput` command](https://github.com/exupero/til/blob/main/Unix/move-shell-cursor-with-tput-command.md)
 10. [Parse nested, stringified JSON with jq](https://github.com/exupero/til/blob/main/Unix/parse-nested-stringified-json-with-jq.md)
-11. [Slice array with `jq`](https://github.com/exupero/til/blob/main/Unix/slice-array-with-jq.md)
-12. [`exec` replaces current process](https://github.com/exupero/til/blob/main/Unix/exec-replaces-current-process.md)
-13. [moreutils script to timestamp lines of input](https://github.com/exupero/til/blob/main/Unix/moreutils-script-to-timestamp-lines-of-input.md)
+11. [Search hidden files with ripgrep](https://github.com/exupero/til/blob/main/Unix/search-hidden-files-with-ripgrep.md)
+12. [Slice array with `jq`](https://github.com/exupero/til/blob/main/Unix/slice-array-with-jq.md)
+13. [`exec` replaces current process](https://github.com/exupero/til/blob/main/Unix/exec-replaces-current-process.md)
+14. [moreutils script to timestamp lines of input](https://github.com/exupero/til/blob/main/Unix/moreutils-script-to-timestamp-lines-of-input.md)
 
 ## Web
 1. [CSS has ':empty' selector for elements without children](https://github.com/exupero/til/blob/main/Web/css-has-empty-selector-for-elements-without-children.md)
