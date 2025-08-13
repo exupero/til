@@ -55,9 +55,6 @@ A collection of concise write-ups on small things I learn day to day across a va
 5. [RSS feed of commit activity](https://github.com/exupero/til/blob/main/GitHub/rss-feed-of-commit-activity.md)
 6. [Search PRs merged between two dates](https://github.com/exupero/til/blob/main/GitHub/search-prs-merged-between-two-dates.md)
 
-## GraphQL
-1. [Query for schema](https://github.com/exupero/til/blob/main/GraphQL/query-for-schema.md)
-
 ## HTML
 1. [&lt;progress&gt; element exists](https://github.com/exupero/til/blob/main/HTML/-progress-element-exists.md)
 2. [Date input exists](https://github.com/exupero/til/blob/main/HTML/date-input-exists.md)
@@ -164,8 +161,9 @@ I've only tested these in [Neovim](https://neovim.io/), but some of them also ap
 2. [Chrome has DevTools snippets](https://github.com/exupero/til/blob/main/Web/chrome-has-devtools-snippets.md)
 3. [Deep link to specific text](https://github.com/exupero/til/blob/main/Web/deep-link-to-specific-text.md)
 4. [Disable JavaScript in a Chrome tab via the developer command prompt](https://github.com/exupero/til/blob/main/Web/disable-javascript-in-a-chrome-tab-via-the-developer-command-prompt.md)
-5. [Style web component's shadow DOM](https://github.com/exupero/til/blob/main/Web/style-web-components-shadow-dom.md)
-6. [Use mitmproxy to get CLI network inspector](https://github.com/exupero/til/blob/main/Web/use-mitmproxy-to-get-cli-network-inspector.md)
+5. [Query for schema](https://github.com/exupero/til/blob/main/Web/query-for-schema.md)
+6. [Style web component's shadow DOM](https://github.com/exupero/til/blob/main/Web/style-web-components-shadow-dom.md)
+7. [Use mitmproxy to get CLI network inspector](https://github.com/exupero/til/blob/main/Web/use-mitmproxy-to-get-cli-network-inspector.md)
 
 ## Zsh
 1. [.zshenv is loaded for all shells, including Vim](https://github.com/exupero/til/blob/main/Zsh/zshenv-is-loaded-for-all-shells-including-vim.md)
