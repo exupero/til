@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-110 TILs
+111 TILs
 
 ---
 
@@ -63,6 +63,9 @@ A collection of concise write-ups on small things I learn day to day across a va
 1. [Find app by pattern of its window title](https://github.com/exupero/til/blob/main/Hammerspoon/find-app-by-pattern-of-its-window-title.md)
 2. [How to create a custom UI in a webview](https://github.com/exupero/til/blob/main/Hammerspoon/how-to-create-a-custom-ui-in-a-webview.md)
 3. [hs.appfinder is deprecated](https://github.com/exupero/til/blob/main/Hammerspoon/hs-appfinder-is-deprecated.md)
+
+## IOS
+1. [Insert graph into note on iPad](https://github.com/exupero/til/blob/main/IOS/insert-graph-into-note-on-ipad.md)
 
 ## Images
 1. [PPM is a text-based image format](https://github.com/exupero/til/blob/main/Images/ppm-is-a-text-based-image-format.md)
