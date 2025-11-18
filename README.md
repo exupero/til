@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-111 TILs
+115 TILs
 
 ---
 
@@ -129,10 +129,14 @@ I've only tested these in [Neovim](https://neovim.io/), but some of them also ap
 ## Python
 1. ['*' and '/' syntax for specifying positional and keyword argument requirements](https://github.com/exupero/til/blob/main/Python/asterisk-and-slash-syntax-for-specifying-positional-and-keyword-argument-requirements.md)
 2. [Copying and looping over dict is faster than dict comprehension](https://github.com/exupero/til/blob/main/Python/copying-and-looping-over-dict-is-faster-than-dict-comprehension.md)
-3. [Pip install globally, regardless of active virtualenv](https://github.com/exupero/til/blob/main/Python/pip-install-globally-regardless-of-active-virtualenv.md)
-4. [Redirect print to a file with redirect_stdout](https://github.com/exupero/til/blob/main/Python/redirect-print-to-a-file-with-redirect-stdout.md)
-5. [Show code's AST](https://github.com/exupero/til/blob/main/Python/show-codes-ast.md)
-6. [line-profiler library](https://github.com/exupero/til/blob/main/Python/line-profiler-library.md)
+3. [Filter Pytest tests with boolean logic](https://github.com/exupero/til/blob/main/Python/filter-pytest-tests-with-boolean-logic.md)
+4. [Pip install globally, regardless of active virtualenv](https://github.com/exupero/til/blob/main/Python/pip-install-globally-regardless-of-active-virtualenv.md)
+5. [Redirect print to a file with redirect_stdout](https://github.com/exupero/til/blob/main/Python/redirect-print-to-a-file-with-redirect-stdout.md)
+6. [Show code's AST](https://github.com/exupero/til/blob/main/Python/show-codes-ast.md)
+7. [Specify default options to Pytest](https://github.com/exupero/til/blob/main/Python/specify-default-options-to-pytest.md)
+8. [`functools.lru_cache` decorator provides method to clear cache](https://github.com/exupero/til/blob/main/Python/-functools-lru-cache-decorator-provides-method-to-clear-cache.md)
+9. [`functools.lru_cache` provides access to wrapped function](https://github.com/exupero/til/blob/main/Python/-functools-lru-cache-provides-access-to-wrapped-function.md)
+10. [line-profiler library](https://github.com/exupero/til/blob/main/Python/line-profiler-library.md)
 
 ## SVG
 1. [Text can be shifted vertically with "dominant-baseline" attribute](https://github.com/exupero/til/blob/main/SVG/text-can-be-shifted-vertically-with-dominant-baseline-attribute.md)
