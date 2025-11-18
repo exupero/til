@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-115 TILs
+116 TILs
 
 ---
 
@@ -115,9 +115,10 @@ I've only tested these in [Neovim](https://neovim.io/), but some of them also ap
 11. [Replace in visual selection with `\%V`](https://github.com/exupero/til/blob/main/Neovim/replace-in-visual-selection-with-v-.md)
 12. [Set env var in running instance](https://github.com/exupero/til/blob/main/Neovim/set-env-var-in-running-instance.md)
 13. [Stop search at beginning or end of file](https://github.com/exupero/til/blob/main/Neovim/stop-search-at-beginning-or-end-of-file.md)
-14. [Vim-medieval configuration to run Clojure code with Babashka](https://github.com/exupero/til/blob/main/Neovim/vim-medieval-configuration-to-run-clojure-code-with-babashka.md)
-15. [after/ directories have to be included on runtimepath](https://github.com/exupero/til/blob/main/Neovim/after-directories-have-to-be-included-on-runtimepath.md)
-16. [vim-fugitive includes GBrowse command](https://github.com/exupero/til/blob/main/Neovim/vim-fugitive-includes-gbrowse-command.md)
+14. [UltiSnips supports regex replacement on placeholders](https://github.com/exupero/til/blob/main/Neovim/ultisnips-supports-regex-replacement-on-placeholders.md)
+15. [Vim-medieval configuration to run Clojure code with Babashka](https://github.com/exupero/til/blob/main/Neovim/vim-medieval-configuration-to-run-clojure-code-with-babashka.md)
+16. [after/ directories have to be included on runtimepath](https://github.com/exupero/til/blob/main/Neovim/after-directories-have-to-be-included-on-runtimepath.md)
+17. [vim-fugitive includes GBrowse command](https://github.com/exupero/til/blob/main/Neovim/vim-fugitive-includes-gbrowse-command.md)
 
 ## Obsidian
 1. [Projects plugin exists](https://github.com/exupero/til/blob/main/Obsidian/projects-plugin-exists.md)
