@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-116 TILs
+117 TILs
 
 ---
 
@@ -51,9 +51,10 @@ A collection of concise write-ups on small things I learn day to day across a va
 1. ['gh alias set' can run shell commands](https://github.com/exupero/til/blob/main/GitHub/gh-alias-set-can-run-shell-commands.md)
 2. [CLI commands for common needs](https://github.com/exupero/til/blob/main/GitHub/cli-commands-for-common-needs.md)
 3. [Dismiss a review that requested changes](https://github.com/exupero/til/blob/main/GitHub/dismiss-a-review-that-requested-changes.md)
-4. [Go to line in file with keyboard shortcut `l`](https://github.com/exupero/til/blob/main/GitHub/go-to-line-in-file-with-keyboard-shortcut-l-.md)
-5. [RSS feed of commit activity](https://github.com/exupero/til/blob/main/GitHub/rss-feed-of-commit-activity.md)
-6. [Search PRs merged between two dates](https://github.com/exupero/til/blob/main/GitHub/search-prs-merged-between-two-dates.md)
+4. [Download pending comments on a review](https://github.com/exupero/til/blob/main/GitHub/download-pending-comments-on-a-review.md)
+5. [Go to line in file with keyboard shortcut `l`](https://github.com/exupero/til/blob/main/GitHub/go-to-line-in-file-with-keyboard-shortcut-l-.md)
+6. [RSS feed of commit activity](https://github.com/exupero/til/blob/main/GitHub/rss-feed-of-commit-activity.md)
+7. [Search PRs merged between two dates](https://github.com/exupero/til/blob/main/GitHub/search-prs-merged-between-two-dates.md)
 
 ## HTML
 1. [&lt;progress&gt; element exists](https://github.com/exupero/til/blob/main/HTML/-progress-element-exists.md)
