@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-117 TILs
+118 TILs
 
 ---
 
@@ -167,13 +167,14 @@ I've only tested these in [Neovim](https://neovim.io/), but some of them also ap
 14. [moreutils script to timestamp lines of input](https://github.com/exupero/til/blob/main/Unix/moreutils-script-to-timestamp-lines-of-input.md)
 
 ## Web
-1. [CSS has ':empty' selector for elements without children](https://github.com/exupero/til/blob/main/Web/css-has-empty-selector-for-elements-without-children.md)
-2. [Chrome has DevTools snippets](https://github.com/exupero/til/blob/main/Web/chrome-has-devtools-snippets.md)
-3. [Deep link to specific text](https://github.com/exupero/til/blob/main/Web/deep-link-to-specific-text.md)
-4. [Disable JavaScript in a Chrome tab via the developer command prompt](https://github.com/exupero/til/blob/main/Web/disable-javascript-in-a-chrome-tab-via-the-developer-command-prompt.md)
-5. [Query for schema](https://github.com/exupero/til/blob/main/Web/query-for-schema.md)
-6. [Style web component's shadow DOM](https://github.com/exupero/til/blob/main/Web/style-web-components-shadow-dom.md)
-7. [Use mitmproxy to get CLI network inspector](https://github.com/exupero/til/blob/main/Web/use-mitmproxy-to-get-cli-network-inspector.md)
+1. [CSS `grid-template-areas` allows drawing grid layout](https://github.com/exupero/til/blob/main/Web/css-grid-template-areas-allows-drawing-grid-layout.md)
+2. [CSS has ':empty' selector for elements without children](https://github.com/exupero/til/blob/main/Web/css-has-empty-selector-for-elements-without-children.md)
+3. [Chrome has DevTools snippets](https://github.com/exupero/til/blob/main/Web/chrome-has-devtools-snippets.md)
+4. [Deep link to specific text](https://github.com/exupero/til/blob/main/Web/deep-link-to-specific-text.md)
+5. [Disable JavaScript in a Chrome tab via the developer command prompt](https://github.com/exupero/til/blob/main/Web/disable-javascript-in-a-chrome-tab-via-the-developer-command-prompt.md)
+6. [Query for schema](https://github.com/exupero/til/blob/main/Web/query-for-schema.md)
+7. [Style web component's shadow DOM](https://github.com/exupero/til/blob/main/Web/style-web-components-shadow-dom.md)
+8. [Use mitmproxy to get CLI network inspector](https://github.com/exupero/til/blob/main/Web/use-mitmproxy-to-get-cli-network-inspector.md)
 
 ## Zsh
 1. [.zshenv is loaded for all shells, including Vim](https://github.com/exupero/til/blob/main/Zsh/zshenv-is-loaded-for-all-shells-including-vim.md)
