@@ -2,7 +2,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til).
 
-118 TILs
+119 TILs
 
 ---
 
@@ -157,14 +157,15 @@ I've only tested these in [Neovim](https://neovim.io/), but some of them also ap
 4. [Drop lines from beginning of stdin](https://github.com/exupero/til/blob/main/Unix/drop-lines-from-beginning-of-stdin.md)
 5. [Export all variables in a sourced script](https://github.com/exupero/til/blob/main/Unix/export-all-variables-in-a-sourced-script.md)
 6. [Get current datetime as ISO8601 timestamp](https://github.com/exupero/til/blob/main/Unix/get-current-datetime-as-iso-timestamp.md)
-7. [List all paths from $PATH where an executable is found](https://github.com/exupero/til/blob/main/Unix/list-all-paths-from-path-where-an-executable-is-found.md)
-8. [Move shell cursor with `tput` command](https://github.com/exupero/til/blob/main/Unix/move-shell-cursor-with-tput-command.md)
-9. [Parse nested, stringified JSON with jq](https://github.com/exupero/til/blob/main/Unix/parse-nested-stringified-json-with-jq.md)
-10. [SSH config can be used for `scp`](https://github.com/exupero/til/blob/main/Unix/ssh-config-can-be-used-for-scp-.md)
-11. [Search hidden files with ripgrep](https://github.com/exupero/til/blob/main/Unix/search-hidden-files-with-ripgrep.md)
-12. [Slice array with `jq`](https://github.com/exupero/til/blob/main/Unix/slice-array-with-jq.md)
-13. [`exec` replaces current process](https://github.com/exupero/til/blob/main/Unix/exec-replaces-current-process.md)
-14. [moreutils script to timestamp lines of input](https://github.com/exupero/til/blob/main/Unix/moreutils-script-to-timestamp-lines-of-input.md)
+7. [Graphviz nodes can link to URLs](https://github.com/exupero/til/blob/main/Unix/graphviz-nodes-can-link-to-urls.md)
+8. [List all paths from $PATH where an executable is found](https://github.com/exupero/til/blob/main/Unix/list-all-paths-from-path-where-an-executable-is-found.md)
+9. [Move shell cursor with `tput` command](https://github.com/exupero/til/blob/main/Unix/move-shell-cursor-with-tput-command.md)
+10. [Parse nested, stringified JSON with jq](https://github.com/exupero/til/blob/main/Unix/parse-nested-stringified-json-with-jq.md)
+11. [SSH config can be used for `scp`](https://github.com/exupero/til/blob/main/Unix/ssh-config-can-be-used-for-scp-.md)
+12. [Search hidden files with ripgrep](https://github.com/exupero/til/blob/main/Unix/search-hidden-files-with-ripgrep.md)
+13. [Slice array with `jq`](https://github.com/exupero/til/blob/main/Unix/slice-array-with-jq.md)
+14. [`exec` replaces current process](https://github.com/exupero/til/blob/main/Unix/exec-replaces-current-process.md)
+15. [moreutils script to timestamp lines of input](https://github.com/exupero/til/blob/main/Unix/moreutils-script-to-timestamp-lines-of-input.md)
 
 ## Web
 1. [CSS `grid-template-areas` allows drawing grid layout](https://github.com/exupero/til/blob/main/Web/css-grid-template-areas-allows-drawing-grid-layout.md)
